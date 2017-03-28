@@ -3,10 +3,11 @@ alias myip='ipconfig getifaddr en0'
 
 # git shortcuts
 alias gs='git status -s'
+alias gb='git branch'
 
 # for Node.js projects
 alias ns='nodemon start'
-alias npmc='rm -rf ./node_modules && npm i'
+alias npmc='rm -rf ./node_modules && yarn'
 
 # for frequently accessed folders
 # alias foo='cd ~/path/to/foo'
