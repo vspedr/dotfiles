@@ -1,5 +1,6 @@
 # general purpose
-alias myip='ipconfig getifaddr en0'
+alias myip='ipconfig getifaddr en0' # mac
+# alias myip='ifconfig | grep 192.168.0.' # linux ( best i could find :/ )
 
 # git shortcuts
 alias gs='git status -s'
