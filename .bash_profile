@@ -1,10 +1,11 @@
+# for my beloved editor
+alias a='atom .'
+
 # general purpose
 alias myip='ipconfig getifaddr en0' # mac
 # alias myip='ifconfig | grep 192.168.0.' # linux ( best i could find :/ )
 
-# git shortcuts
-alias gs='git status -s'
-alias gb='git branch'
+# git shortcuts: follow the same conventions as https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet
 
 # for Node.js projects
 alias ns='nodemon start'
