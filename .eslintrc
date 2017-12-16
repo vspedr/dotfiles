@@ -5,6 +5,6 @@
     "no-trailing-spaces": [ 2 ],
     "object-curly-spacing": [ 2, "always" ],
     "prefer-const": [ 2, { destructuring: "all" }],
-    "no-console": [ 2 ]
+    "no-console": [ 1 ]
   }
 }
