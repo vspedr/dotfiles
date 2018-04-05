@@ -1,11 +1,13 @@
+autocomplete-paths@2.12.2
 busy-signal@1.4.3
 editorconfig@2.2.2
-file-icons@2.1.13
+file-icons@2.1.15
 git-time-machine@1.5.9
 hyperclick@0.1.5
 intentions@1.1.5
-js-hyperclick@1.11.1
+js-hyperclick@1.13.0
 lcov-info@0.12.0
 linter@2.2.0
-linter-eslint@8.4.0
-linter-ui-default@1.6.10
+linter-eslint@8.4.1
+linter-ui-default@1.7.1
+react@0.18.0
