@@ -11,3 +11,4 @@ linter@2.2.0
 linter-eslint@8.4.1
 linter-ui-default@1.7.1
 react@0.18.0
+zentabs@0.8.9
