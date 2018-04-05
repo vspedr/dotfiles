@@ -6,6 +6,16 @@ alias myip='ipconfig getifaddr en0' # mac
 # alias myip='ifconfig | grep 192.168.0.' # linux ( best i could find :/ )
 
 # git shortcuts: follow the same conventions as https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet
+alias gti='git'
+alias g='git'
+alias gaa='git add --all'
+alias gcb='git checkout -b'
+alias gcm='git commit -m'
+alias gco='git checkout'
+alias gl='git pull'
+alias glog='git log --oneline --decorate --color --graph'
+alias gp='git push'
+alias gss='git status -s'
 
 # for Node.js projects
 alias ns='nodemon start'
