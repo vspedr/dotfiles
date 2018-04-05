@@ -39,3 +39,7 @@ alias sgl='siege -c255 -d10 -t3M http://localhost:3000'
 # exports
 export VISUAL=vi
 export EDITOR="$VISUAL"
+
+# in case my ?/ key is messed up
+# Remap key code 105 to forward slash
+xmodmap ~/.Xmodmap
