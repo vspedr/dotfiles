@@ -53,3 +53,6 @@ export EDITOR="$VISUAL"
 # in case my ?/ key is messed up
 # Remap key code 105 to forward slash
 xmodmap ~/.Xmodmap
+
+# my custom PS1
+export PS1="\[\033[38;5;36m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\] [\W] \[$(tput sgr0)\]\[\033[38;5;36m\]\\$\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]"
