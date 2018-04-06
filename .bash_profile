@@ -56,3 +56,10 @@ xmodmap ~/.Xmodmap
 
 # my custom PS1
 export PS1="\[\033[38;5;36m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\] [\W] \[$(tput sgr0)\]\[\033[38;5;36m\]\\$\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]"
+
+# bashgit
+# https://github.com/oyvindstegard/bashgit
+# curl -o ~/.bashgit https://raw.githubusercontent.com/oyvindstegard/bashgit/master/.bashgit
+if [ -f ~/.bashgit ]; then
+    . ~/.bashgit
+fi
