@@ -1,5 +1,7 @@
 # for my beloved editor
 alias a='atom .'
+# i don't have a choice
+alias c='code .'
 
 # general purpose
 alias myip='ipconfig getifaddr en0' # mac
