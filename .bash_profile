@@ -36,6 +36,13 @@ alias rni='react-native run-ios'
 alias rns='react-native start'
 alias gir='./android/gradlew installRelease'
 
+# for elixir projects
+alias mas='mix app.start'
+alias mdg='mix deps.get'
+alias mpr='mix phx.routes'
+alias mps='mix phx.server'
+alias mt='mix test'
+
 # for React Native + CodePush projects
 # alias cpaProd='code-push release-react #ANDROID_PROJECT_NAME# android -d Production'
 # alias cpiProd='code-push release-react #IOS_PROJECT_NAME# ios -d Production'
@@ -54,7 +61,7 @@ export EDITOR="$VISUAL"
 
 # in case my ?/ key is messed up
 # Remap key code 105 to forward slash
-xmodmap ~/.Xmodmap
+## xmodmap ~/.Xmodmap
 
 # my custom PS1
 export PS1="\[\033[38;5;36m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\] [\W] \[$(tput sgr0)\]\[\033[38;5;36m\]\\$\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]"
