@@ -55,6 +55,9 @@ alias mt='mix test'
 # for fun
 alias sgl='siege -c255 -d10 -t3M http://localhost:3000'
 
+# timestamp for history
+HISTTIMEFORMAT="%d/%m/%y %T "
+
 # exports
 export VISUAL=vi
 export EDITOR="$VISUAL"
