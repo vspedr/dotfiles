@@ -1,9 +1,16 @@
+# because of reasons
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+
 # for my beloved editor
 alias a='atom .'
 # i don't have a choice
 alias c='code .'
 
 # general purpose
+alias ll='ls -ltra'
+alias vi='vim'
 alias myip='ipconfig getifaddr en0' # mac
 # alias myip='ifconfig | grep 192.168.0.' # linux ( best i could find :/ )
 
@@ -11,6 +18,7 @@ alias myip='ipconfig getifaddr en0' # mac
 alias gti='git'
 alias g='git'
 alias gaa='git add --all'
+alias gc='git commit'
 alias gcb='git checkout -b'
 alias gcm='git commit -m'
 alias gco='git checkout'
