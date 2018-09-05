@@ -10,3 +10,21 @@ My personal dotfiles
 
 ## Setting local time on linux after a fresh installed dual boot
 ```timedatectl set-local-rtc 1 --adjust-system-clock```
+
+## RHEL/CentOS 7 64-Bit
+### EPEL
+```wget http://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm```
+```rpm -ivh epel-release-latest-7.noarch.rpm```
+
+Install arc-theme
+
+[TopIcons Plus](https://www.fossmint.com/topicons-plus-display-gnome-icons-in-the-top-panel/)
+[Spotify](https://negativo17.org/repos/spotify/fedora-27/x86_64/)
+
+
+# VS Code packages
+- vscode-icons
+- eslint
+- One Dark Pro
+- Atom Keymap
+- Jest
