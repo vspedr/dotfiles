@@ -22,7 +22,7 @@ Install arc-theme
 [Spotify](https://negativo17.org/repos/spotify/fedora-27/x86_64/)
 
 
-# VS Code packages
+## VS Code packages
 - vscode-icons
 - eslint
 - One Dark Pro
