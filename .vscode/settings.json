@@ -1,0 +1,9 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "explorer.openEditors.visible": 0,
+    "editor.renderWhitespace": "boundary"
+}
