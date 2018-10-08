@@ -20,7 +20,7 @@ Install arc-theme
 
 [TopIcons Plus](https://www.fossmint.com/topicons-plus-display-gnome-icons-in-the-top-panel/)
 [Spotify](https://negativo17.org/repos/spotify/fedora-27/x86_64/)
-
+[Git](http://opensource.wandisco.com/centos/7/git/x86_64/) - install latest `git` and `perl-Git`
 
 ## VS Code packages
 - vscode-icons
