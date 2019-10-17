@@ -84,3 +84,11 @@ export PS1="\[\033[38;5;36m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\] [\W] \[$(tput s
 if [ -f ~/.bashgit ]; then
     . ~/.bashgit
 fi
+
+# ¯\_(ツ)_/¯
+wtf(){
+        nmcli radio wifi off
+        sleep 3
+        nmcli radio wifi on
+}
+
