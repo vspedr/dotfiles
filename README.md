@@ -28,3 +28,6 @@ Install arc-theme
 - One Dark Pro
 - Atom Keymap
 - Jest
+
+## Stop annoying chrome from taking over media keys
+chrome://flags/#hardware-media-key-handling
